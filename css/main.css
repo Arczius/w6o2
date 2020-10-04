@@ -1,0 +1,26 @@
+body{
+	background-image: url('../images/header_bg.png');
+	font-family: 'Roboto', sans-serif;
+	color: rgba(255, 255, 255, 0.8);
+}
+.a1{
+	color: rgba(255, 255, 255, 0.8);
+	text-decoration: none;
+}
+
+.boss{
+	margin-left: 37%;	
+	margin-top: 10%;
+}
+
+.icons{
+	font-size: 50px;
+	border-spacing: 30px 30px;
+}
+
+.table{
+	margin-left: 20%;
+	margin-top: 4%;
+
+
+}
